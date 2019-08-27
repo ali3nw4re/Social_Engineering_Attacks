@@ -43,8 +43,6 @@ cout << "They need to fix your system's vunerabilties" << endl;
 Sleep(500);
 cout << "Do not worry, this attack is not malicious, it's pourpose was only to highlight cyber security issues in your system" << endl;
 Sleep(500);
-cout << "But future attacks may not be ;) ;) ;)" << endl;
-Sleep(500);
 cout << "ali3n out" << endl;
 Sleep(5000);
 srand( time(0) );
